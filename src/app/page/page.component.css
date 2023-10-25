@@ -1,0 +1,30 @@
+.containers{
+       background: url('../../assets/backgound.svg');
+    background-repeat: no-repeat;
+    height: 80vh;
+    
+
+}
+.containers{
+    background-color: red;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn {
+    background-color:whitesmoke;
+    border-radius: 7px;
+    border-width: 50% !important;
+    width: 100%;
+    height: 4vw;
+  }
+  
+  
+
+  
